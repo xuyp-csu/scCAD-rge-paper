@@ -15,40 +15,40 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |
 |
 |________1. Benchmarking                                   Benchmarking: comparing scCAD with ten state-of-the-art methods in 25 real datasets.
-|                                                          Fig. 2
+|                                                          Fig. 2 & Supplementary Fig. 1, 2
 |
 |________2. Decomposition effectively                      Decomposition effectively isolates clusters dominated by rare cell types. 
-|                                                          Fig. 3 & Supplementary Fig. 1
+|                                                          Fig. 3 & Supplementary Fig. 3~6
 |
 |________3. Robustness test                                Evaluation of robustness and sensitivity of scCAD.
 |                                                          Fig. 4
 |
 |________4. Airway dataset analysis                        scCAD enables the identification of rare airway epithelial cell types.
-|                                                          Fig. 5 & Supplementary Fig. 2
+|                                                          Fig. 5 & Supplementary Fig. 7
 |
 |________5. Arc-ME dataset analysis                        scCAD identifies various rare cell subpopulations within the mouse brain.
-|                                                          Fig. 6 & Supplementary Fig. 3
+|                                                          Fig. 6 & Supplementary Fig. 8
 |
 |________6. intestine dataset analysis                     scCAD identifies various rare cell types in the crypts of the irradiated mouse intestine.
 |                                                          Fig. 7
 |
 |________7. pancreas dataset analysis                      scCAD identifies various rare cell types in the human pancreas.            
-|                                                          Fig. 8 & Supplementary Fig. 4
+|                                                          Fig. 8 & Supplementary Fig. 9
 |
 |________8. immunological datasets analysis                scCAD can identify known rare cell types in large-scale immunological single-cell datasets.
 |                                                          Fig. 9
 |
 |________9. ccRCC datasets analysis                        scCAD identifies various unannotated rare cell subtypes in the clear cell renal cell carcinoma dataset.       
-|                                                          Fig. 10 & Supplementary Fig. 5
+|                                                          Fig. 10 & Supplementary Fig. 10
 |
 |________10. PBMCs datasets analysis                       scCAD identifies rare cell types in four real PBMC datasets (PBMC-bench-1, 2, 3, and PBMC-test).
-|                                                          Supplementary Fig. 6~9
+|                                                          Supplementary Fig. 11~14
 |
 |________11. Retina & B_lymphoma datasets analysis         scCAD identifies rare cell types and subtypes in Retina & B_lymphoma datasets.                            
 |                                                          Fig. 11
 |
 |________12. Parameters test                               Parameter value selection in scCAD.     
-                                                           Supplementary Fig. 10 & 11
+                                                           Supplementary Fig. 15~18
 ```
 
 ## Notes when running codes
