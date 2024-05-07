@@ -48,7 +48,7 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |                                                          Fig. 11
 |
 |________12. Parameters test                               Parameter value selection in scCAD.     
-                                                           Supplementary Fig. 15~18
+                                                           Supplementary Fig. 15~17
 ```
 
 ## Notes when running codes
