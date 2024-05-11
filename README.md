@@ -44,7 +44,8 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |________10. PBMCs datasets analysis                       scCAD identifies rare cell types in four real PBMC datasets (PBMC-bench-1, 2, 3, and PBMC-test).
 |                                                          Supplementary Fig. 14~17
 |
-|________11. Retina & B_lymphoma datasets analysis         scCAD identifies rare cell types and subtypes in Retina & B_lymphoma datasets.                           |                                                          Fig. 11
+|________11. Retina & B_lymphoma datasets analysis         scCAD identifies rare cell types and subtypes in Retina & B_lymphoma datasets.
+|                                                          Fig. 11
 |
 |________12. Parameters test                               Parameter value selection in scCAD.     
 |                                                          Supplementary Fig. 18~20
