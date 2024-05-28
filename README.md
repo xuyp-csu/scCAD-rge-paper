@@ -15,10 +15,10 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |
 |
 |________1. Benchmarking                                   Benchmarking: comparing scCAD with ten state-of-the-art methods in 25 real datasets.
-|                                                          Fig. 2 & Supplementary Fig. 1, 2
+|                                                          Fig. 2 & Supplementary Figs. 1, 2
 |
 |________2. Decomposition effectively                      Decomposition effectively isolates clusters dominated by rare cell types. 
-|                                                          Fig. 3 & Supplementary Fig. 3~9
+|                                                          Fig. 3 & Supplementary Figs. 3~9
 |
 |________3. Robustness test                                Evaluation of robustness and sensitivity of scCAD.
 |                                                          Fig. 4
@@ -42,13 +42,13 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |                                                          Fig. 10 & Supplementary Fig. 13
 |
 |________10. PBMCs datasets analysis                       scCAD identifies rare cell types in four real PBMC datasets (PBMC-bench-1, 2, 3, and PBMC-test).
-|                                                          Supplementary Fig. 14~17
+|                                                          Supplementary Figs. 14~17
 |
 |________11. Retina & B_lymphoma datasets analysis         scCAD identifies rare cell types and subtypes in Retina & B_lymphoma datasets.
 |                                                          Fig. 11
 |
 |________12. Parameters test                               Parameter value selection in scCAD.     
-|                                                          Supplementary Fig. 18~19
+|                                                          Supplementary Figs. 18~19
 |
 |________13. UMAP vs tSNE                                  Comparing t-SNE and UMAP for visualizing rare cell types.
                                                            Supplementary Fig. 20
