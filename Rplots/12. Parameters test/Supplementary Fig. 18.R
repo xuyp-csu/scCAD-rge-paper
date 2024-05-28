@@ -5,7 +5,7 @@ workdir = paste0(homedir, 'Rplots/12. Parameters test/')
 library(paletteer)
 library(ggplot2)
 
-load(paste0(workdir, "Supplementary Fig. 19_source_data.Rdata"))
+load(paste0(workdir, "Supplementary Fig. 18_source_data.Rdata"))
 
 ggplot(df, aes(x = M, y = proportion, fill=type)) +
   geom_col(colour="black",width=0.5,    
