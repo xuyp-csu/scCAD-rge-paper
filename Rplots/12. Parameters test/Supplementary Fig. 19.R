@@ -5,7 +5,7 @@ workdir = paste0(homedir, 'Rplots/12. Parameters test/')
 library(paletteer)
 library(ggplot2)
 
-load(paste0(workdir, "Supplementary Fig. 20_source_data.Rdata"))
+load(paste0(workdir, "Supplementary Fig. 19_source_data.Rdata"))
 
 ggplot(df, aes(x=Dataset, y=Independence_score)) + 
   geom_dotplot(binaxis='y', stackdir='center', dotsize=0.5)+
@@ -18,5 +18,5 @@ ggplot(df, aes(x=Dataset, y=Independence_score)) +
         axis.text.x = element_text(size=12, family="serif",face = 'bold'),
         strip.text = element_text(size=20, family="serif",face = 'bold'),
         panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-ggsave(path = workdir, filename = "Supplementary Fig. 20.png",width = 10, height = 6, device='png', dpi=300)
+ggsave(path = workdir, filename = "Supplementary Fig. 19.png",width = 10, height = 6, device='png', dpi=300)
 
