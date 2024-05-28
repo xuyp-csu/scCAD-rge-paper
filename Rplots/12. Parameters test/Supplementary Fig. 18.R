@@ -30,6 +30,6 @@ ggplot(df, aes(x = M, y = proportion, fill=type)) +
         legend.key.height=unit(0.3,"cm"), 
         panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 
-ggsave(path = workdir, filename = "Supplementary Fig. 19.png",width = 10, height = 6, device='png', dpi=300)
+ggsave(path = workdir, filename = "Supplementary Fig. 18.png",width = 10, height = 6, device='png', dpi=300)
 
 
