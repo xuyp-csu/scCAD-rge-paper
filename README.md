@@ -48,10 +48,10 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |                                                          Fig. 11
 |
 |________12. Parameters test                               Parameter value selection in scCAD.     
-|                                                          Supplementary Fig. 18~20
+|                                                          Supplementary Fig. 18~19
 |
 |________13. UMAP vs tSNE                                  Comparing t-SNE and UMAP for visualizing rare cell types.
-                                                           Supplementary Fig. 21
+                                                           Supplementary Fig. 20
 ```
 
 ## Notes when running codes
