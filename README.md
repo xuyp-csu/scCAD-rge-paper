@@ -39,19 +39,22 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |                                                          Fig. 9
 |
 |________9. ccRCC datasets analysis                        scCAD identifies various unannotated rare cell subtypes in the clear cell renal cell carcinoma dataset.  
-|                                                          Fig. 10 & Supplementary Fig. 13
+|                                                          Fig. 10 & Supplementary Fig. 14
 |
 |________10. PBMCs datasets analysis                       scCAD identifies rare cell types in four real PBMC datasets (PBMC-bench-1, 2, 3, and PBMC-test).
-|                                                          Supplementary Figs. 14~17
+|                                                          Supplementary Figs. 15~18
 |
 |________11. Retina & B_lymphoma datasets analysis         scCAD identifies rare cell types and subtypes in Retina & B_lymphoma datasets.
 |                                                          Fig. 11
 |
-|________12. Parameters test                               Parameter value selection in scCAD.     
-|                                                          Supplementary Figs. 18~19
+|________12. ~68k PBMCs datasets analysis                  scCAD effectively identifies well-validated dendritic cell subtypes in ~68k PBMC dataset.
+|                                                          Fig. 12 & Supplementary Fig. 19
 |
-|________13. UMAP vs tSNE                                  Comparing t-SNE and UMAP for visualizing rare cell types.
-                                                           Supplementary Fig. 20
+|________13. Parameters test                               Parameter value selection in scCAD.     
+|                                                          Supplementary Figs. 20, 21
+|
+|________14. UMAP vs tSNE                                  Comparing t-SNE and UMAP for visualizing rare cell types.
+                                                           Supplementary Fig. 22
 ```
 
 ## Notes when running codes
