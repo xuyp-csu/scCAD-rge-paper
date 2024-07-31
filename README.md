@@ -18,43 +18,43 @@ Materials (source data & R code) for reproduction of published figures in the ma
 |                                                          Fig. 2 & Supplementary Figs. 1, 2
 |
 |________2. Decomposition effectively                      Decomposition effectively isolates clusters dominated by rare cell types. 
-|                                                          Fig. 3 & Supplementary Figs. 3~9
+|                                                          Supplementary Figs. 3~10
 |
 |________3. Robustness test                                Evaluation of robustness and sensitivity of scCAD.
-|                                                          Fig. 4
+|                                                          Supplementary Figs. 11
 |
 |________4. Airway dataset analysis                        scCAD enables the identification of rare airway epithelial cell types.
-|                                                          Fig. 5 & Supplementary Fig. 10
+|                                                          Fig. 3 & Supplementary Fig. 12
 |
 |________5. Arc-ME dataset analysis                        scCAD identifies various rare cell subpopulations within the mouse brain.
-|                                                          Fig. 6 & Supplementary Fig. 11
+|                                                          Fig. 4 & Supplementary Fig. 13
 |
 |________6. intestine dataset analysis                     scCAD identifies various rare cell types in the crypts of the irradiated mouse intestine.
-|                                                          Fig. 7
+|                                                          Fig. 5
 |
 |________7. pancreas dataset analysis                      scCAD identifies various rare cell types in the human pancreas.            
-|                                                          Fig. 8 & Supplementary Fig. 12
+|                                                          Fig. 6 & Supplementary Fig. 14
 |
 |________8. immunological datasets analysis                scCAD can identify known rare cell types in large-scale immunological single-cell datasets.
-|                                                          Fig. 9
+|                                                          Fig. 7
 |
 |________9. ccRCC datasets analysis                        scCAD identifies various unannotated rare cell subtypes in the clear cell renal cell carcinoma dataset.  
-|                                                          Fig. 10 & Supplementary Fig. 14
+|                                                          Fig. 8 & Supplementary Fig. 16
 |
 |________10. PBMCs datasets analysis                       scCAD identifies rare cell types in four real PBMC datasets (PBMC-bench-1, 2, 3, and PBMC-test).
-|                                                          Supplementary Figs. 15~18
+|                                                          Supplementary Figs. 17~20
 |
 |________11. Retina & B_lymphoma datasets analysis         scCAD identifies rare cell types and subtypes in Retina & B_lymphoma datasets.
-|                                                          Fig. 11
+|                                                          Fig. 9
 |
 |________12. ~68k PBMCs datasets analysis                  scCAD effectively identifies well-validated dendritic cell subtypes in ~68k PBMC dataset.
-|                                                          Fig. 12 & Supplementary Fig. 19
+|                                                          Fig. 10 & Supplementary Fig. 21
 |
 |________13. Parameters test                               Parameter value selection in scCAD.     
-|                                                          Supplementary Figs. 20, 21
+|                                                          Supplementary Figs. 22, 23
 |
 |________14. UMAP vs tSNE                                  Comparing t-SNE and UMAP for visualizing rare cell types.
-                                                           Supplementary Fig. 22
+                                                           Supplementary Fig. 24
 ```
 
 ## Notes when running codes
